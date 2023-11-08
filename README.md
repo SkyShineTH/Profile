@@ -1,3 +1,3 @@
 # Profile
 Profile
-https://www.skyshine.tk/
+https://skyshineth.github.io/Profile/
